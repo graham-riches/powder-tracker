@@ -1,0 +1,46 @@
+<pre>
+Backcountry Forecast from NWS Missoula issued:
+240 PM MST Sun Dec 22 2019
+
+DISCUSSION: Strong ridgetop winds, general southwesterly flow with
+moisture riding over the axis of the ridge in northwest Montana, 
+and unseasonably warm temperatures...where have we heard this
+before? Hopefully today is the final day of these three persistent
+features existing across the region. There is a cold front poised 
+to cross the Northern Rockies late tonight into Monday morning, 
+with colder air (aka: seasonable temperatures) expected to return,
+which will produce light mountain snow across northwest Montana 
+mountain ranges. By Tuesday, moisture moving up from the south may
+bring about some light snow to the southern Bitterroots and 
+Anaconda/Pintlers. All in all, not a very active period for 
+snowfall, sadly.
+
+
+
+Whitefish Range:
+
+--------------------------- 4000-6000 FT ----------------------------
+                      Tonight      Mon          Mon Night    Tue      
+Cloud Cover           65%          75%          70%          65%      
+Hi/Lo Temps           24 to 29     29 to 38     20 to 26     25 to 33 
+Winds(mph)            SE  8G24     S 13G31      SW 13G31     S  9G20  
+Precip Chc            0            50           0            0        
+Precip Type           snow         snow         snow         none     
+Liquid Amt            0.00         0.10         0.00         0.00     
+Snow Ratio(SLR)       12:1         16:1         18:1         0        
+Snow Amt(in)          0            1-3          0            0        
+
+--------------------------- 6000-8000 FT ----------------------------
+                      Tonight      Mon          Mon Night    Tue      
+Cloud Cover           65%          80%          75%          65%      
+Hi/Lo Temps           22 to 27     27 to 33     19 to 23     23 to 29 
+Winds(mph)            SE 12G28     S 17G32      SW 17G32     SW 12    
+Precip Chc            0            60           0            0        
+Precip Type           snow         snow         snow         none     
+Liquid Amt            0.00         0.15         0.00         0.00     
+Snow Ratio(SLR)       14:1         16:1         18:1         0        
+Snow Amt(in)          0            2-3          0            0        
+
+Snow Level            4000         3500         2000         1500     
+
+</pre>
