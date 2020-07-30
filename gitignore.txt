@@ -1,6 +1,0 @@
-# pycache files
-**.pycache
-
-# log files
-**.log
-
